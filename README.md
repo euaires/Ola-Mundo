@@ -1,4 +1,2 @@
-# Preço do dolár nos últimos 10 ANOS! (Tester MD)
- Primeiro repositório do curso de Git e Github
+# value of the dollar in reais in recent years! (***Test MD***)
 
- Repositório criado durante uma aula ao vivo
